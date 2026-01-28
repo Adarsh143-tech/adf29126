@@ -1,0 +1,9 @@
+{
+	"name": "dfnewjobs29126",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bd813dc8-315c-45b9-bc41-a0795ee0ed68",
+		"tenantId": "a0f69dd8-f527-4253-8a7f-cb847c7c862d"
+	}
+}
